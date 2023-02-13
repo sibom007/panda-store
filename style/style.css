@@ -1,0 +1,27 @@
+.cat1{
+    color: white;
+    padding: 10px 30px;
+    background-color: #ffa500;
+    border-radius: 10px;
+
+}
+.cat2{
+    color: white;
+    padding: 10px 30px;
+    background-color:orchid;
+    border-radius: 10px;
+}
+.cat3{
+    color: white;
+    padding: 10px 30px;
+    background-color:blue;
+    border-radius: 10px;
+}
+.card{
+    box-shadow: 5px 5px 10px #d3d3d3;
+}
+.styleoffutter{
+    padding: 50px;
+    text-align: center;
+    background-color: #fceae8;
+}
